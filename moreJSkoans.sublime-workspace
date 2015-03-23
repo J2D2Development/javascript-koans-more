@@ -1,0 +1,642 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"che",
+				"checkbox"
+			],
+			[
+				"multi",
+				"multiDeleteFiles"
+			],
+			[
+				"delete",
+				"multiDeleteFiles"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"includ",
+				"include_once"
+			],
+			[
+				"inclu",
+				"include_once"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"page",
+				"page_dirty"
+			],
+			[
+				"fea",
+				"feature_link_info"
+			],
+			[
+				"action",
+				"action_id"
+			],
+			[
+				"hoa",
+				"hoa_id"
+			],
+			[
+				"menu",
+				"menuitem"
+			],
+			[
+				"link",
+				"linkinfo"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"ma",
+				"maction_details"
+			],
+			[
+				"sp",
+				"spinner_bg_color"
+			],
+			[
+				"spi",
+				"spinner_main_color"
+			],
+			[
+				"spinner",
+				"spinner_bg_color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"cp",
+				"cp_notices"
+			],
+			[
+				"logou",
+				"logoutRedirect"
+			],
+			[
+				"border-bo",
+				"border-bottom-left-radius"
+			],
+			[
+				"home",
+				"home_delete_notice"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"border",
+				"border-bottom-color"
+			],
+			[
+				"to",
+				"toTop"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"col",
+				"colspan"
+			],
+			[
+				"graphic",
+				"graphicMenuTable"
+			],
+			[
+				"loader",
+				"loaderWrapper"
+			],
+			[
+				"url",
+				"url_base"
+			],
+			[
+				"el",
+				"elId"
+			],
+			[
+				"localFea",
+				"localFeatureOptions"
+			],
+			[
+				"a",
+				"attributes"
+			],
+			[
+				"get",
+				"getElement"
+			],
+			[
+				"lo",
+				"localPage"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"restrict"
+			],
+			[
+				"ta",
+				"table-column"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"con",
+				"controllerAs"
+			],
+			[
+				"s",
+				"strong	Tag"
+			],
+			[
+				"al",
+				"alt	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "koans/AboutInheritance.js",
+			"settings":
+			{
+				"buffer_size": 2292,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/javascript-koans-more/koans/AboutHigherOrderFunctions.js",
+		"/C/xampp/htdocs/javascript-koans-more/koans/AboutMutability.js",
+		"/C/xampp/htdocs/javascript-koans-more/koans/AboutFunctions.js",
+		"/C/xampp/htdocs/javascript-koans-more/koans/AboutObjects.js",
+		"/C/xampp/htdocs/javascript-koans-more/koans/AboutArrays.js",
+		"/C/xampp/htdocs/javascript-koans-more/koans/AboutExpects.js",
+		"/C/xampp/htdocs/javascript-koans-more/KoansRunner.html",
+		"/C/xampp/htdocs/javascript-koans-more/README.markdown",
+		"/C/xampp/htdocs/JavaScript-Koans/README.md",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_regular_expressions.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_scope.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_this.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_functions_and_closure.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_prototypal_inheritance.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_arrays.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_reflection.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_prototype_chain.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_strings.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_numbers.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_objects.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_assignment.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_control_structures.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_truthyness.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_equality.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_asserts.js",
+		"/C/xampp/htdocs/JavaScript-Koans/topics/about_operators.js",
+		"/C/Users/Jackie/Documents/Nord Enterprises/Custcare-Director/Dev/futureprojects.txt",
+		"/C/Users/Jackie/Desktop/sourcecodereview.txt",
+		"/C/Users/Jackie/Documents/Nord Enterprises/Custcare-Director/Dev/2015 Release A - ckeditor/noticeemail.txt",
+		"/C/xampp/htdocs/NordDev/cp/style_main_cp.inc",
+		"/C/xampp/htdocs/NordDev/style_main.inc",
+		"/C/xampp/htdocs/NordDev/cp/pages.php",
+		"/C/xampp/htdocs/NordDev/cp/editpagearea.php",
+		"/C/xampp/htdocs/NordDev/cp/editdocs.inc",
+		"/C/xampp/htdocs/NordDev/cp/login.inc",
+		"/C/xampp/htdocs/NordDev/cp/editmail_lists.php",
+		"/C/xampp/htdocs/NordDev/manage.html",
+		"/C/xampp/htdocs/NordDev/ckeditor/plugins/link/dialogs/link.js",
+		"/C/xampp/htdocs/NordDev/cp/pages_retrieve.php",
+		"/C/xampp/htdocs/NordDev/cp/features_retrieve.php",
+		"/C/xampp/htdocs/NordDev/pages_retrieve.php",
+		"/C/xampp/htdocs/NordDev/features_retrieve.php",
+		"/C/xampp/htdocs/NordDev/ckeditor/plugins/link/dialogs/pages_retrieve.php",
+		"/C/xampp/htdocs/NordDev/feature.html",
+		"/C/xampp/htdocs/NordDev/cp/editfacres.php",
+		"/C/xampp/htdocs/NordDev/cp/editfac.php",
+		"/C/xampp/htdocs/NordDev/cp/status.php",
+		"/C/xampp/htdocs/NordDev/Update Notes/2015-03-02possibleMemoryLeak.txt",
+		"/C/xampp/htdocs/NordDev/cp/cpheader.php",
+		"/C/xampp/htdocs/NordDev/cp/general.php",
+		"/C/xampp/htdocs/NordDev/cp/mng_fac.php",
+		"/C/xampp/htdocs/NordDev/cp/editevents.inc",
+		"/C/xampp/htdocs/NordDev/cp/editevent.inc",
+		"/C/xampp/htdocs/NordDev/cp/cppage.html",
+		"/C/xampp/htdocs/NordDev/cp/editpayment.php",
+		"/C/xampp/htdocs/NordDev/cp/editmediafiles.inc",
+		"/C/xampp/htdocs/NordDev/cp/editphotoalbums.php",
+		"/C/xampp/htdocs/NordDev/cp/editpics.inc",
+		"/C/xampp/htdocs/NordDev/cp/editreqforms.php",
+		"/C/xampp/htdocs/NordDev/cp/editmbs.inc",
+		"/C/xampp/htdocs/NordDev/cp/editdir.php",
+		"/C/xampp/htdocs/NordDev/cp/editrk.inc",
+		"/C/xampp/htdocs/NordDev/cp/editballots.php",
+		"/C/xampp/htdocs/NordDev/cp/editservices.inc",
+		"/C/xampp/htdocs/NordDev/cp/editassocgov.inc",
+		"/C/xampp/htdocs/NordDev/cp/editresvtns.php",
+		"/C/xampp/htdocs/NordDev/scripts/ckeditorAdmin.js",
+		"/C/xampp/htdocs/NordDev/page/editpagearea.php",
+		"/C/xampp/htdocs/NordDev/pagemanage.html",
+		"/C/xampp/htdocs/NordDev/cp/editpage.php",
+		"/C/xampp/htdocs/NordDev/fckeditor/editor/filemanager/browser/default/frmresourceslist.html",
+		"/C/Users/Jackie/Documents/Nord Enterprises/MS Region/Las Campanas/2015-02-18 Conference Call.txt",
+		"/C/xampp/htdocs/NordDev/ckeditor/ckeditor.js",
+		"/C/xampp/htdocs/NordDev/cp/style_content_cp.inc",
+		"/C/xampp/htdocs/NordDev/notices.php",
+		"/C/Users/Jackie/Desktop/Helpful Tools/OPEN OFFICE CALC MACROS.txt",
+		"/C/xampp/htdocs/NordDev/pagemenu.inc",
+		"/C/xampp/htdocs/NordDev/cp/logout.inc",
+		"/C/xampp/htdocs/NordDev/style_content.inc",
+		"/C/xampp/htdocs/NordDev/scripts/jquery.js",
+		"/C/xampp/htdocs/NordDev/utilities.inc",
+		"/C/xampp/htdocs/NordDev/ckeditor/plugins/link/dialogs/features_retrieve.php",
+		"/C/xampp/htdocs/NordDev/utils_files.inc",
+		"/C/xampp/htdocs/NordDev/.git/index",
+		"/C/xampp/htdocs/NordDev/cp/constants.inc",
+		"/C/Users/Jackie/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/NordDev/cp/cputilities.inc",
+		"/C/xampp/htdocs/NordDev/cp/cppage_toc.inc",
+		"/C/xampp/htdocs/NordDev/cp/feature_list.inc",
+		"/C/xampp/htdocs/NordDev/feature_menu_items.inc",
+		"/C/xampp/htdocs/NordDev/Backup Files/2015-01ckEditorBACKUP/cppageHTMLtransitional.html",
+		"/C/xampp/htdocs/unsorted.txt",
+		"/C/xampp/htdocs/NordDev/ckeditor/filemanager/browser/default/frmresourceslist.html",
+		"/C/xampp/htdocs/NordDev/ckeditor/default/frmresourceslist.html",
+		"/C/xampp/htdocs/NordDev/ckeditor/default/browser.html",
+		"/C/xampp/htdocs/NordDev/ckeditor/default/frmactualfolder.html",
+		"/C/xampp/htdocs/NordDev/ckeditor/default/connectors/php/connector.php",
+		"/C/xampp/htdocs/NordDev/fckeditor/editor/filemanager/browser/default/connectors/php/connector.php",
+		"/C/xampp/htdocs/NordDev/ckeditor/plugins/link/dialogs/linkWorkSheet.js",
+		"/C/xampp/htdocs/NordDev/page.html",
+		"/C/xampp/htdocs/NordDev/ckeditor/contents.css",
+		"/C/xampp/htdocs/NordDev/ckeditor/skins/moono/editor_gecko.css",
+		"/C/xampp/htdocs/NordDev/ckeditor/skins/moono/editor_ie.css",
+		"/C/xampp/htdocs/NordDev/ckeditor/skins/moono/editor_ie7.css",
+		"/C/xampp/htdocs/NordDev/ckeditor/skins/moono/editor_ie8.css",
+		"/C/xampp/htdocs/NordDev/ckeditor/skins/moono/editor_iequirks.css",
+		"/C/xampp/htdocs/NordDev/ckeditor/skins/moono/dialog.css",
+		"/C/xampp/htdocs/NordDev/ckeditor/skins/moono/dialog_ie.css",
+		"/C/xampp/htdocs/NordDev/ckeditor/skins/moono/dialog_ie7.css",
+		"/C/xampp/htdocs/NordDev/ckeditor/skins/moono/dialog_ie8.css",
+		"/C/xampp/htdocs/NordDev/ckeditor/skins/moono/dialog_iequirks.css",
+		"/C/xampp/htdocs/NordDev/fckeditor/editor/dialog/fck_link.html",
+		"/C/Users/Jackie/Documents/Nord Enterprises/MW Region/Beach Forest/2015-02-02hostinginfo.txt",
+		"/C/xampp/htdocs/NordDev/db.inc",
+		"/C/xampp/htdocs/NordDev/fckeditor/editor/dialog/fck_link/fck_link.js",
+		"/C/xampp/htdocs/NordDev/ckeditor/plugins/link/dialogs/getpages.php",
+		"/C/xampp/htdocs/NordDev/ckeditor/plugins/link/dialogs/linkCompressedOld.js",
+		"/C/xampp/htdocs/NordDev/ckeditor/config.js",
+		"/C/Users/Jackie/Documents/UdacityWebDev/rot13jcd/main.py",
+		"/C/xampp/htdocs/NordDev/HelpSite/helpAds.php",
+		"/C/xampp/htdocs/NordDev/HelpSite/ad-panels.html",
+		"/C/xampp/htdocs/NordDev/HelpSite/angular-route.min.js",
+		"/C/xampp/htdocs/NordDev/HelpSite/angular.min.js",
+		"/C/xampp/htdocs/NordDev/HelpSite/helpEvents.php",
+		"/C/xampp/htdocs/NordDev/HelpSite/event-panels.html",
+		"/C/Users/Jackie/Desktop/webDevInterviewQs.txt",
+		"/C/xampp/htdocs/j2d2Development/j2d2Blog/j2d2Blog.php",
+		"/C/xampp/htdocs/j2d2Development/j2d2Blog/j2d2BlogBACKUP"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"validate_doc",
+			"Icomments",
+			"validate_doc",
+			"form",
+			"file?",
+			"#upload",
+			"selected",
+			"selecteed",
+			"multiDeleteFiles",
+			"multiDele",
+			"form",
+			"file?",
+			"validate",
+			"submit",
+			"file?",
+			"selected",
+			"user uplo",
+			"Delete Selec",
+			"delete selec",
+			"delete",
+			"create",
+			"transition",
+			"Title:",
+			"properties",
+			"Enter the",
+			"enter the",
+			"title",
+			"wysiwyg",
+			"only display",
+			"only display editor",
+			"file",
+			"status",
+			"upload a new",
+			"uploaded documents",
+			"upload a new",
+			"delete selec",
+			"upload a new ",
+			"manage",
+			"delete",
+			"DOCUMENTS",
+			"$edit_url",
+			"editnew",
+			"unset",
+			"unset(",
+			"$",
+			"gcff",
+			"requestor",
+			"new reservation",
+			"&nbsp;",
+			"&nbsp;</div>",
+			"facility prop",
+			"facility descrip",
+			"feature prop",
+			"event reminder",
+			"custom no",
+			"feature proper",
+			"feature properties",
+			"loader",
+			"viewpic",
+			"reminder",
+			"etitle",
+			"editEventInit",
+			"$pagecontent",
+			"head",
+			"viewpic",
+			"$pagecontent",
+			"button",
+			"newmsg",
+			"table",
+			"message",
+			"ititle",
+			"newmsg",
+			"message",
+			"status of last",
+			"loader",
+			"$hoa_main",
+			"toolbarDiv",
+			"message",
+			"Ititle",
+			"GetFileRowHtml",
+			"GetFileRow",
+			"fileUrl",
+			"file limits",
+			"while",
+			"adminNotice",
+			"status_msg",
+			"login_msg",
+			"ctext",
+			"chlink",
+			"table",
+			"helplinks",
+			"style",
+			"loader",
+			"style",
+			"ul",
+			"min-hei",
+			"notices",
+			"css",
+			"loader",
+			"login_msg",
+			"tr",
+			"td",
+			"table",
+			"login",
+			"pageutils_",
+			"script",
+			"menu",
+			"content",
+			"pages help",
+			"hoa_main",
+			"us_mode",
+			"$pageutils",
+			"cp_source",
+			"look",
+			"pagemenu",
+			"include",
+			"approval_track",
+			"pagemenu",
+			"menu",
+			"pageutils",
+			"dim['cell_spacing",
+			"menu_item_labels",
+			"table",
+			"menu",
+			"$pagemenu",
+			"fileUrl",
+			"fileImage",
+			"meta content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"createLink",
+			"directorypanel",
+			"adpanel",
+			"eventpanel",
+			"container-fluid",
+			"imgpanel",
+			"userpanel",
+			"genpanel"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "koans/AboutInheritance.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "moreJSkoans.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
