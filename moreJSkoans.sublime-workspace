@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"ingredientCount"
+			],
+			[
+				"pro",
+				"productList"
+			],
+			[
+				"ingre",
+				"ingredient"
+			],
+			[
 				"fade",
 				"fadeTo"
 			],
@@ -271,7 +283,23 @@
 			"file": "koans/AboutApplyingWhatWeHaveLearnt.js",
 			"settings":
 			{
-				"buffer_size": 3967,
+				"buffer_size": 4144,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/jsPractice/maindate.html",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/jsPractice/maindate.js",
+			"settings":
+			{
+				"buffer_size": 3497,
 				"line_ending": "Windows"
 			}
 		}
@@ -606,7 +634,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -615,15 +643,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3967,
+						"buffer_size": 4144,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1560,
-								1560
+								4051,
+								3974
 							]
 						],
 						"settings":
@@ -634,7 +662,66 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1703.0,
+						"translation.y": 2508.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/jsPractice/maindate.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/jsPractice/maindate.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3420,
+								3420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1922.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
